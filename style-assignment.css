@@ -22,7 +22,7 @@ body {
       #ffffff 26.59%,
       rgba(255, 255, 255, 0) 100.84%
     ),
-    url(/asset/background-section-hero.jpeg);
+    url(asset/background-section-hero.jpeg);
   background-size: cover;
 }
 .small {
